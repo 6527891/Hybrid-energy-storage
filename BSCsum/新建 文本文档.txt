@@ -1,0 +1,6 @@
+P		241221		3_Pagent_f			原目录				pw+0.2
+H		241221		3_Hagent_psocb_random/rbsoc1			pw+0.29
+B		241221		3_Bagent_psocsc_random/rsocsc1			pw+0.29
+
+
+h、b为随机训练
